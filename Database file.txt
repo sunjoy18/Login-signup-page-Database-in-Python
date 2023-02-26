@@ -1,0 +1,8 @@
+CREATE TABLE mydatabase(
+  id varchar(20) PRIMARY KEY,
+  pas varchar(20))
+  
+ //Inserting dummy value
+ 
+INSERT INTO mydatabase values(      
+  "sanjay","1234")
